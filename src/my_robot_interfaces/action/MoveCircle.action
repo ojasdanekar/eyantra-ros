@@ -1,0 +1,11 @@
+# Goal definition
+float64 radius
+float64 speed
+
+---
+# Result definition
+float64 total_distance
+
+---
+# Feedback definition
+float64 distance_traveled
